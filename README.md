@@ -57,7 +57,7 @@ else:
 جميع الأزواجmy_dict.items()
 التحقق من وجود مفتاح"key" in my_dict
 
-
+i
 ## ✅ المرحلة 4: الدوال والتعامل مع الملفات
 - [x] إنشاء الدوال (functions)
 - [x] try / except
